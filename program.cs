@@ -1,4 +1,3 @@
-
 // C# program to implement Jump Search.
 using System;
 public class JumpSearch
